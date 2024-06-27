@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+header {
+    background: linear-gradient(to right, #ff0095, #0072ff, #ff5f6d);
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    width: 80%;
+    max-width: 800px;
+    margin: 2em auto;
+    background-color: white;
+    padding: 2em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+section h2 {
+    margin-top: 0;
+}
+
+section img {
+    width: 300px; /* Set specific width */
+    height: 200px; /* Set specific height */
+    object-fit: cover; /* This will crop the image to fit the dimensions */
+    display: block;
+    margin: 1em 0;
+}
+
+section img + p {
+    font-family: Georgia, 'Times New Roman', Times, serif; /* Change font for paragraphs under images */
+}
+
+footer {
+    background: linear-gradient(to right, #ff0095, #0072ff, #ff5f6d);
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+
+
