@@ -1,12 +1,4 @@
-fueldigitalmedia.com,259132,RESELLER
-appnexus.com,15670,RESELLER
-improvedigital.com,2174,RESELLER
-tritondigital.com,162223,RESELLER,19b4454d0b87b58b
-smartadserver.com,4016,RESELLER
-smartadserver.com,3161,RESELLER,060d053dcf45cbf3
-indexexchange.com,191967,RESELLER,50b1c356f2c5c8fc
-rubiconproject.com,25218,RESELLER,0bfd66d529a55807
-pubmatic.com,163310,RESELLER,5d62403b186f2acensightvideo.com,35,DIRECT,fd25240165056a01
+nsightvideo.com,35,DIRECT,fd25240165056a01
 appnexus.com,1201403,RESELLER,f5ab79cb980f11d1
 
 
@@ -192,3 +184,4 @@ video.unrulymedia.com,436487936,RESELLER
 video.unrulymedia.com,197948241,RESELLER
 152media.info,152M896,RESELLER
 Indexexchange.com,206559,RESELLER
+
